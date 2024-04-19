@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\ArrayProject1\bin\Debug\net6.0\ArrayProject1.exe
+C:\Users\MCA\source\repos\ArrayProject1\bin\Debug\net6.0\ArrayProject1.deps.json
+C:\Users\MCA\source\repos\ArrayProject1\bin\Debug\net6.0\ArrayProject1.runtimeconfig.json
+C:\Users\MCA\source\repos\ArrayProject1\bin\Debug\net6.0\ArrayProject1.dll
+C:\Users\MCA\source\repos\ArrayProject1\bin\Debug\net6.0\ArrayProject1.pdb
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.AssemblyInfo.cs
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.dll
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\refint\ArrayProject1.dll
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.pdb
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ArrayProject1.genruntimeconfig.cache
+C:\Users\MCA\source\repos\ArrayProject1\obj\Debug\net6.0\ref\ArrayProject1.dll
